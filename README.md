@@ -1,0 +1,2 @@
+# walmart-menu
+# scrap-products
